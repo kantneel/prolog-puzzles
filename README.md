@@ -1,2 +1,2 @@
 # prolog-puzzles
-Practicing prolog with by writing some puzzles
+Practicing prolog by writing some puzzles
